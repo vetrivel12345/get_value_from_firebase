@@ -1,0 +1,22 @@
+td{
+  margin: 5px;
+  width: 20%;
+  border: 1px solid black;
+  padding: 2px;
+
+}
+table{
+  border: 1px solid black;
+  width: 100%;
+}
+tr{
+  height: 20px;
+}
+.App{
+ 
+  text-align: center;
+}
+button{
+  margin: 15px;
+  
+}
